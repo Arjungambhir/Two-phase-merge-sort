@@ -1,0 +1,24 @@
+ ###  start execution... 
+
+ Input paramas for applications are as Mentioned below : 
+ 1.Input file    : input.txt
+ 2.Output file   : output.txt
+ 3.Memory(MB)    : 50MB
+ 4.Sorting Order : asc
+
+ Reading Metadata File 
+ Updated params as per mentioned in Metadata File 
+
+ Reading Input File 
+
+ Reading Input records
+
+ Number of records read and sorted are :50000
+ Updated data as per input File 
+
+ Start merging Files 
+ Files merged In single output file
+
+ total time : 0.5989431 seconds..
+
+ ###  program execution completed ... 
